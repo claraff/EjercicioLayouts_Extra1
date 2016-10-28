@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EjercicioLayouts_Extra1</string>
+
+    <string name="titulo">Titulo centrado</string>
+    <string name="nombre">Nombre del Usuario</string>
+    <string name="descripcion">Descripción del estado del usuario que ocupa 2-3 líneas completas</string>
+    <string name="ver">Ver perfil</string>
+    <string name="info">Cargar info</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="localizar">Localízame!</string>
+    <string name="encapsulado">Esto es un ejemplo de texto largo encapsulado dentro de un banner en movimiento</string>
+
+
+</resources>
